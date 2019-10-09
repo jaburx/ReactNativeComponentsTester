@@ -41,7 +41,7 @@
     "jest": "22.1.4",
     "lint-staged": "^6.1.0",
     "prettier": "^1.10.2",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.1",
     "react-test-renderer": "16.2.0"
   },
   "jest": {
